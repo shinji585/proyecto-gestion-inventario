@@ -33,6 +33,6 @@ public class Metodos extends Inventario{
             System.out.println("No se encontró un producto con el ID " + id);
         }
     
-        return null; // O puedes retornar algún valor si es necesario
+        return null; 
     }
 }
